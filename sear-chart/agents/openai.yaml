@@ -1,0 +1,6 @@
+interface:
+  display_name: "SearChart"
+  short_description: "为HTML长报告制作统一风格、响应式重排和复杂标注的数据图表"
+  default_prompt: "使用 $sear-chart，根据原始数据和本模块的信息重点设计图表，并生成统一风格、可响应式重排的HTML报告。"
+policy:
+  allow_implicit_invocation: true
